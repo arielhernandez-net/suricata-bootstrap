@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+
+body, h1, h2, h3, h4, h5, header{
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+  }
+
+nav.navbar {
+    background-color: #e83e8c !important;
+}
+
+.suricata-logo {
+    width: 134px;
+}
+
+#navbarNav {
+    font: normal normal normal 16px/22px Open Sans;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+h1 {
+    font: normal normal bold 60px/82px Open Sans;
+    letter-spacing: 0px;
+    color: #707070;
+    text-align: center;
+    margin-top: 100px;
+    opacity: 1;
+}
+
+.payments {
+    background-color: #17a2b8 ;
+    height: 170px;
+    color: #ffffff;
+}
+
+footer {
+    background-color: #e83e8c;
+    height: 184px;
+}
+
+.suricata-footer {
+    width: 54px;
+    height: 100px;
+}
